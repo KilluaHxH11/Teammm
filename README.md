@@ -1,2 +1,2 @@
-# Tea
+# teh
 Tea testnet
